@@ -1,4 +1,4 @@
-# RPi-Temperature-Alert
+# Raspberry Pi temperature alert
 Monitor the CPU temperature of a Raspberry Pi, send warn emails and shut down the system if it gets too hot.
 
 The original code comes from [here](https://gist.github.com/LeonardoGentile/7a5330e6bc55860feee5d0dd79e7965d). I modified it to send more detailed warning messages and added a nice CPU temperature graph over the past 60 days to the emails. Below
